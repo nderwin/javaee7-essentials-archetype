@@ -7,7 +7,7 @@
     </parent>
     <groupId>com.airhacks</groupId>
     <artifactId>javaee7-essentials-archetype</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.5-SNAPSHOT</version>
     <name>javaee7-essentials-archetype</name>
     <description>Java EE 7 project template. Clean, lean and minimalistic.</description>
     <url>http://airhacks.com</url>
